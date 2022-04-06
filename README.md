@@ -36,6 +36,12 @@ Jika ingin mendownload zip nya, sangat mudah yaitu tinggal click `Download Zip` 
 | [Manjaro Linux][manjaro] | `Operating Sistem` |
 
 
+
+> Jika ingin menggunakan Template, pastikan kalian sudah mendownload alat" yang dibutuhkan seperti Compiler berupa Mingw atau gcc
+> Dan jika mengalami error pastikan path pada compiler sudah ditulis dengan benar. Lihat file `c_cpp_launch.json` pada `.vscode`
+> lihat bagian ``` "compilerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe",``` pastikan path sudah sesuai dengan lokasi compiler yang sudah di install.
+ 
+ 
  [kl-linux]: <https://youtu.be/o1x9OoaEO-M>
  [kl-windows]: <https://youtu.be/4-PyiuVaYRc>
  [git-tutor]: <https://www.sudoway.id/cara-install-git-di-linux-dan-windows/>
