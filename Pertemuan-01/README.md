@@ -14,16 +14,11 @@ Website-website rekomended untuk belajar pemograman C++:
 - [w3schools][w3]
 - [duniailkom][di]
 
-<<<<<<< HEAD
 <hr>
 
- Donasi seiklasnya buat beli kuota :D 
+ Donasi seiklasnya buat beli kuota :D <br>
  <b>DANA</b> : 085156283541 (MUHAMAD FAISAL) 
  
-=======
-
-
->>>>>>> main
 [var-lit]: <https://www.programiz.com/cpp-programming/variables-literals>
 [data-type]: <https://www.programiz.com/cpp-programming/data-types>
 [io-base]: <https://www.programiz.com/cpp-programming/input-output>
