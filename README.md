@@ -43,7 +43,7 @@ Jika ingin mendownload zip nya, sangat mudah yaitu tinggal click `Download Zip` 
  
  <hr>
 
- Donasi seiklasnya buat beli kuota :D 
+ Donasi seiklasnya buat beli kuota :D <br>
  <b>DANA</b> : 085156283541 (MUHAMAD FAISAL) 
 
  
