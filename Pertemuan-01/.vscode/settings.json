@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 15,
+    "editor.fontFamily": "'Source Code Pro','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "window.zoomLevel": 1,
+    "terminal.integrated.fontSize": 15,
+    "workbench.colorTheme": "Palenight Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+}
