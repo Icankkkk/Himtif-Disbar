@@ -16,8 +16,6 @@ Website-website rekomended untuk belajar pemograman C++:
 
 <hr>
 
- Donasi seiklasnya buat beli kuota :D <br>
- <b>DANA</b> : 085156283541 (MUHAMAD FAISAL) 
  
 [var-lit]: <https://www.programiz.com/cpp-programming/variables-literals>
 [data-type]: <https://www.programiz.com/cpp-programming/data-types>
