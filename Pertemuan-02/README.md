@@ -15,8 +15,6 @@ Website-website rekomended untuk belajar pemograman C++:
 
 <hr>
 
- Donasi seiklasnya buat beli kuota :D 
- <b>DANA</b> : 085156283541 (MUHAMAD FAISAL) 
  
 [tc]: <https://www.programiz.com/cpp-programming/type-conversion>
 [op]: <https://www.programiz.com/cpp-programming/operators>
